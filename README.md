@@ -99,15 +99,11 @@ I believe great software is a combination of **engineering + creativity**.
 
 ---
 
-## 🧩 Philosophy
-
-
-
 ## 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luffycpp&theme=tokyo-night)
 
 
 
-![snake gif](https://github.com/luffycpp/luffycpp/blob/output/github-contribution-grid-snake.svg)
+
 
